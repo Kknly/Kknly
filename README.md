@@ -1,7 +1,7 @@
 ### Hello ets! my name is kauanny 👾
 
 
-![knly GitHub stats](https://github-readme-stats.vercel.app/api?username=Kknly&show_icons=true&theme=rasical)
+![knly GitHub stats](https://github-readme-stats.vercel.app/api?username=Kknly&show_icons=true&theme=dracula)
 
 
 ### Social Network :
